@@ -17,6 +17,15 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+html{
+	overflow-y: scroll; 
+}
+
+body{
+	padding-top:60px ; 
+	font-family: 'Roboto', sans-serif; 
+}
+
 #logo {
 	font-size: 26px;
 	font-weight: 700;
